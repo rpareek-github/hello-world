@@ -1,0 +1,4 @@
+General Command: -
+
+Checking jks file certificate details in cmd
+-keytool -list -v -keystore (jks file name) -storepass (jks password)
